@@ -1,5 +1,5 @@
-org 0x0
 bits 16
+org 0x7c00
 
 ; set display mode
 mov ax, 3
