@@ -1,7 +1,11 @@
 # VSOS
 ## Table of contents
 - [VSOS](#vsos)
+  - [Future plans](#Future-plans)
   - [How did I implement it, step by step](#Implementation)
+
+## Future plans
+- Deploy on browser using https://copy.sh/v86/
 
 ## Implementation
 ### Step 1: Setting up the development environment
